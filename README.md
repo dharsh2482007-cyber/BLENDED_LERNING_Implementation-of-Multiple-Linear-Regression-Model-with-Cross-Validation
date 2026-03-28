@@ -67,7 +67,10 @@ plt.grid(True)
 plt.show()
 
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
+
+
+<img width="800" height="703" alt="Screenshot 2026-03-28 173845" src="https://github.com/user-attachments/assets/8cc52d87-8f8c-4ee8-8817-ca50fd075ab3" />
+
 
 
 ## Result:
